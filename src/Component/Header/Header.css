@@ -1,0 +1,39 @@
+.header-container{
+    text-align: center;
+    
+
+
+}
+.header-container h1{
+    color: rgb(4, 87, 73);
+}
+
+.header-container h1 span{
+    color: rebeccapurple;
+    font-weight: 900;
+}
+
+.header-container img{
+    
+    height: 80px;
+}
+.header-container nav{
+    background-color: rgb(253, 169, 154);
+    line-height: 50px;
+    text-align: left;
+    
+    
+}
+
+.header-container nav a{
+    
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    font-weight: 700;
+    /* font-size: 20px; */
+    padding: 14.5px;
+}
+.header-container nav a:hover{
+    background-color: rgb(161, 132, 125);
+}

@@ -1,0 +1,11 @@
+.font-color{
+    color: rgb(1, 36, 1);
+}
+.cart-info{
+    text-align: center;
+    background-color: rgb(248, 205, 149);
+
+    border:1px solid lightgray;
+    margin: 10px;
+    border-radius: 10px;
+}
