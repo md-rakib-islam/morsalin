@@ -21,7 +21,7 @@ const Product = (props) => {
                 <h5>Company : {drug_company.slice(0,15)}</h5>
                 <h5>Country: {country}</h5>
                 <p><b>Price: ${drug_price}</b></p>
-                <p>Product Id:  {drug_Id} </p>
+                <p>Person Id:  {drug_Id} </p>
                 <button onClick={()=>props.handleAddToCart(props.product)}
                 >{btnIcon} Add to Cart</button>
 
